@@ -1,0 +1,24 @@
+# Ficheiros do sistema e editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.tmp
+*.bak
+*~
+
+# Python (ferramentas auxiliares de conversão, se utilizadas)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Ficheiros gerados localmente
+build/
+dist/
+*.log
+
+# Não ignorar .asm, .cir, imagens ou sons necessários à execução.
